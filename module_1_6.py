@@ -1,7 +1,7 @@
 # Практическое задание по теме: "Словари и множества"
 
 # tsak 2
-my_dict = {'Alex': 2000, 'Olga': 2001, 'Yulia': 1999, 'Sergey': 2002}  # созание словаря
+my_dict = {'Alex': 2000, 'Olga': 2001, 'Yulia': 1999, 'Sergey': 2002}  # создание словаря
 print('Task 2')
 print('Dict: ', my_dict)  # вывод словаря
 print('Existing value: ', my_dict['Olga'])  # вывод по существующему ключу или
