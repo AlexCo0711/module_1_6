@@ -4,9 +4,9 @@
 my_dict = {'Alex': 2000, 'Olga': 2001, 'Yulia': 1999, 'Sergey': 2002}  # созание словаря
 print('Task 2')
 print('Dict: ', my_dict)  # вывод словаря
-print('Existing value: ', my_dict['Olga'])  # вовыд по существующему ключу или
+print('Existing value: ', my_dict['Olga'])  # вывод по существующему ключу или
 # вариант 2
-print('Existing value: ', my_dict.get('Olga'))  # вовыд по существующему ключу
+print('Existing value: ', my_dict.get('Olga'))  # вывод по существующему ключу
 print('Not existing value: ', my_dict.get('helga'))  # вывод по отсутствующему ключу
 my_dict.update({'Polina': 1998, 'Elena': 1990})  # добавление произвольных пар
 print('Modifid dictionary:', my_dict)
